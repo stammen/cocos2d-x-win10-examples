@@ -22,33 +22,33 @@ Windows 10 app to save the screen capture to the Pictures folder. These instruct
 
 1. Open the Windows 10 UWP imageDemo solution in your project's proj.win10 folder.
 
-![](Images/open-project.png "")
+![](images/open-project.png "")
 
 
 1. Double click on the Package.AppManifest file and navigate to the **Add | Reference** menu item.
 
-![](Images/permissions.png "")
+![](images/permissions.png "")
 
 
 1. Copy the files in this repo's Classes folder into your project's Classes folder
 
-![](Images/classes.png "")
+![](images/classes.png "")
 
 1. Add the new Classes files to the Classes folder in your imageDemo project
 
-![](Images/add-classes.png "")
+![](images/add-classes.png "")
 
 1. Select the Debug | x86 project configuration. Build and run the solution
 
-![](Images/config.png "")
+![](images/config.png "")
     
 1. When the app runs, click on the Save Screen to Pictures Folder menu item
 
-![](Images/app.png "")
+![](images/app.png "")
 
 1. The app saves the file to the user's Pictures folder.
 
-![](Images/capture.png "")
+![](images/capture.png "")
 
 1. For an example on how to save to the user's Pictures folder on Windows 10 , take a look at the following files:
  
